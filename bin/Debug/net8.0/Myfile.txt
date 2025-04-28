@@ -1,4 +1,2 @@
 Atique,0987654
-Amna,098765
-chotoo,09876543
 someone,678909563
