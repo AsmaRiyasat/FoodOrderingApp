@@ -1,0 +1,6 @@
+Burger,5.99
+Pizza,8.99
+Roti,90
+khuch b,789
+paratha,976
+aalo teendy,0

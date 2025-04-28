@@ -1,0 +1,9 @@
+Customer: Atique
+Ordered Items:
+paratha, 976
+Burger, 5.99
+
+Customer: someone
+Ordered Items:
+Roti, 90
+
